@@ -10,3 +10,6 @@ Password : <input type="password" name="password">
 Email    : <input type="text" name="email">
 <br>
 <input type="submit" name="sign up" value="SUBMIT">
+</form>
+</body>
+</html>
